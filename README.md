@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morinameriton
 - 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Business Analytics(SQL) and Salesforce
+- 🌱 I’m currently learning AI, Digital Tracking and Salesforce
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me: mmorina15@gmail.com
 
